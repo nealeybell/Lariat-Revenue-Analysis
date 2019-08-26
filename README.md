@@ -4,7 +4,7 @@ Rental car business revenue analysis aimed at increasing revenue for the next ye
 # Instructions for Viewing
 Please download and open each file to view.
 
-## If you would like to view online please copy and paste the following links:
+## If you would like to view online please click on the following links:
 
 Lariat Revenue Analysis PowerPoint: https://drive.google.com/file/d/1-S6HIzjziELBTlb_wKlroCAJT5omdp_T/view?usp=sharing
 
